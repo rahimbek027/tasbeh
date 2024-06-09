@@ -1,0 +1,60 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  background-color: black;
+}
+body .tasbeh {
+  max-width: 80rem;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 5rem;
+  margin-top: 10rem;
+}
+body .tasbeh h1 {
+  color: aqua;
+  font-size: 9.6rem;
+}
+body .tasbeh .son {
+  font-size: 11.6rem;
+  color: rgb(35, 205, 148);
+}
+body .tasbeh .btn {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+body .tasbeh .btn .dec {
+  font-size: 2.8rem;
+  color: white;
+  border-color: white;
+  background-color: black;
+  padding-inline: 0.5rem;
+  border-radius: 1rem 1rem 1rem 1rem;
+}
+body .tasbeh .btn .rest {
+  font-size: 2.8rem;
+  color: white;
+  border-color: white;
+  background-color: black;
+  padding-inline: 0.5rem;
+  border-radius: 1rem 1rem 1rem 1rem;
+}
+body .tasbeh .btn .inc {
+  font-size: 2.8rem;
+  color: white;
+  border-color: white;
+  background-color: black;
+  padding-inline: 0.5rem;
+  border-radius: 1rem 1rem 1rem 1rem;
+}/*# sourceMappingURL=main.css.map */
