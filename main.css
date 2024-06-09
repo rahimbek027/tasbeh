@@ -20,6 +20,7 @@ body .tasbeh {
   flex-direction: column;
   gap: 5rem;
   margin-top: 10rem;
+  padding-inline: 1.6rem;
 }
 body .tasbeh h1 {
   color: aqua;
